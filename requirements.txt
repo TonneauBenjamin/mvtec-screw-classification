@@ -10,3 +10,4 @@ Pillow>=9.0.0
 tqdm>=4.60.0
 jupyterlab>=4.0.0
 ipykernel>=6.0.0
+ 
